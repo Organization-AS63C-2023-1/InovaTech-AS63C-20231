@@ -23,3 +23,6 @@ O projeto tem como público alvo todo e qualquer cliente deste hotel, assim como
 
 ## Conteúdo
 
+* Requisitos de usuário com arquivos em formado .word;
+* Requisitos do sistema com arquivo em formato .astah-UML
+* Protótipos de tela com arquivo em formato .pdf;
